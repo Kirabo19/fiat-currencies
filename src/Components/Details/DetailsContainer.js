@@ -80,61 +80,6 @@ function DetailsContainer() {
                <p>Available Supply</p>
                <p>{crypto.availableSupply}</p>
              </div>
-             {/* <div className="info">
-               <p>Contract Address</p>
-               <p>{crypto.contractAddress}</p>
-             </div>
-             <div className="info">
-               <p>Decimals</p>
-               <p>{crypto.decimals}</p>
-             </div>
-             <div className="info">
-               <p>Price Btc</p>
-               <p>
-                 $
-                 {crypto.priceBtc}
-               </p>
-             </div>
-             <div className="info">
-               <p>Price Change/1 Day Ago</p>
-               <p>
-                 $
-                 {crypto.priceChange1d}
-               </p>
-             </div>
-             <div className="info">
-               <p>Price Change/Hour</p>
-               <p>
-                 $
-                 {crypto.priceChange1h}
-               </p>
-             </div>
-             <div className="info">
-               <p>Price Change/Week</p>
-               <p>
-                 $
-                 {crypto.priceChange1w}
-               </p>
-             </div>
-             <div className="info">
-               <p>Total Supply</p>
-               <p>
-                 $
-                 {crypto.totalSupply}
-               </p>
-             </div>
-             <div className="info">
-               <p>Volume</p>
-               <p>{crypto.volume}</p>
-             </div>
-             <div className="infoLink">
-               <p>Twitter</p>
-               <li><a href={crypto.twitterUrl}>Our Twitter Handle</a></li>
-             </div>
-             <div className="infoLink">
-               <p>Website</p>
-               <li><a href={crypto.websiteUrl}>Our website URL</a></li>
-             </div> */}
            </>
          ))
         }

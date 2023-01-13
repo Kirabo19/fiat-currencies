@@ -16,16 +16,6 @@ export const getCurrencies = createAsyncThunk(
       symbol: currency.symbol,
       marketCap: currency.marketCap,
       availableSupply: currency.availableSupply,
-      contractAddress: currency.contractAddress,
-      decimals: currency.decimals,
-      priceBtc: currency.priceBtc,
-      priceChange1d: currency.priceChange1d,
-      priceChange1h: currency.priceChange1h,
-      priceChange1w: currency.priceChange1w,
-      totalSupply: currency.totalSupply,
-      twitterUrl: currency.twitterUrl,
-      volume: currency.volume,
-      websiteUrl: currency.websiteUrl,
       show: false,
     }));
     return currencyData;
