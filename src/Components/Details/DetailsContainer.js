@@ -80,7 +80,7 @@ function DetailsContainer() {
                <p>Available Supply</p>
                <p>{crypto.availableSupply}</p>
              </div>
-             <div className="info">
+             {/* <div className="info">
                <p>Contract Address</p>
                <p>{crypto.contractAddress}</p>
              </div>
@@ -134,7 +134,7 @@ function DetailsContainer() {
              <div className="infoLink">
                <p>Website</p>
                <li><a href={crypto.websiteUrl}>Our website URL</a></li>
-             </div>
+             </div> */}
            </>
          ))
         }

@@ -1,5 +1,5 @@
 .detailsContainer {
-  color: yellow;
+  color: #eaeadf;
   background-image: url("../../images/currency-image.jpg");
 }
 
@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   padding: 50px;
-  background-color: #000826c4;
+  background-color: #0c3304b3;
 }
 
 .indiImg {
@@ -16,7 +16,7 @@
 }
 
 .detailTitle {
-  background-color: #000826f3;
+  background-color: #0a2600f2;
   padding: 7px 30px;
 }
 
@@ -27,23 +27,23 @@
 }
 
 .info:nth-child(even) {
-  background-color: #000826f3;
+  background-color: #002602f2;
 }
 
 .info:nth-child(odd) {
-  background-color: #061138ef;
+  background-color: #0f3806f0;
 }
 
 .infoLink {
   display: flex;
   justify-content: space-between;
   list-style: none;
-  background-color: #061138ef;
+  background-color: #083806f0;
   padding: 20px 30px;
 }
 
 .infoLink:nth-child(even) {
-  background-color: #000826f3;
+  background-color: #0c2600f2;
 }
 
 .coin-info {
