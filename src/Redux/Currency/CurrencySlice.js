@@ -28,7 +28,6 @@ export const getCurrencies = createAsyncThunk(
       websiteUrl: currency.websiteUrl,
       show: false,
     }));
-    console.log(currencyData);
     return currencyData;
   },
 );
