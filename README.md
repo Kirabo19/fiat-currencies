@@ -63,7 +63,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > 
-- [Coming Soon](https://yourdeployedapplicationlink.com)
+- [Url Link](https://kirabo19.github.io/fiat-currencies/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
