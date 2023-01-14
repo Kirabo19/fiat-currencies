@@ -91,6 +91,10 @@ To get a local copy up and running follow these simple example steps.
 
 - Go to the folder `cd fiat-currencries`
 
+- npm install
+
+- npm start
+
 ### Usage
 
 To run the project, execute the following command:
