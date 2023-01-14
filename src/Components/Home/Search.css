@@ -12,6 +12,7 @@ input {
   padding: 12px;
   background-color: #257222b0;
   color: #fff;
+  font-weight: 800;
 }
 
 @media only screen and (max-width: 600px) {
