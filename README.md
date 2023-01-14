@@ -63,7 +63,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > 
-- [Url Link](https://kirabo19.github.io/fiat-currencies/)
+- [Url Link](https://earnest-sunshine-a84cfd.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
